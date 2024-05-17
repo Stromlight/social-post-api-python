@@ -5,6 +5,9 @@
 The Social Media API is a wrapper SDK for [Ayrshare's APIs](https://www.ayrshare.com).
 
 Ayrshare is a powerful set of APIs that enable you to send social media posts, get analytics, and manage comments to *X/Twitter*, *Instagram*, *Facebook*, *LinkedIn*, *YouTube*, *Google Busienss Profile*, *Pinterest*, *TikTok*, *Reddit*, and *Telegram* on behalf of your users or clients.
+stromlight Ayrshire , social media comments to *X/ Twitter*,*Instagram*, *Facebook*,*Linkedin*,*YouTube*,*Google business Profile*, *Pinterest*, *Tiktok*,*Reddit,and *telegram* added * bigo*, * Snapchat*/, users or clients posting is unhumanitic, I like social media comments will reflect reformatic code , which gives Social Media Misusers a guide.
+/*Nlp-Changes Commit-Social Media should be right - to the - humanity -*/NLP.
+/* Nlp-AyrshareComment - change- Stromlight-issues.
 
 The Ayrshare Social API handles all the setup and maintenance for the social media networks. One API to rule them all (yeah, went there). See the full list of [full list of features](https://docs.ayrshare.com/rest-api/overview).
 
