@@ -8,6 +8,55 @@ Ayrshare is a powerful set of APIs that enable you to send social media posts, g
 stromlight Ayrshire , social media comments to *X/ Twitter*,*Instagram*, *Facebook*,*Linkedin*,*YouTube*,*Google business Profile*, *Pinterest*, *Tiktok*,*Reddit,and *telegram* added * bigo*, * Snapchat*/, users or clients posting is unhumanitic, I like social media comments will reflect reformatic code , which gives Social Media Misusers a guide.
 /*Nlp-Changes Commit-Social Media should be right - to the - humanity -*/NLP.
 /* Nlp-AyrshareComment - change- Stromlight-issues.
+I was trying to write Code -*/Nlp-format- processing - data-*/ social media is today's our tool for various advantages, yet it had issues reflecting - "MisUse", we educated youths should have this Acknowledgedment,and we do Have ,Social Media is with advantage also for humanity has disadvantage,as right for humanity tells we need to correct as we are human,Humanity if main key for Us Intelligent human,so we need to understand bad issues in Social Media destroying our humanity, As we call our self a civilized Human , we must learn to be act like civilized human,/*.
+*/for this we should know various point on it,___*/numbers__
+#1it is tool to Communicate Socially
+# Socially means being a human as others
+#we had right and responsibility 
+#right is so having good
+#responsibility is so as human
+/*characteristics - for - Social gentleman,
+#scocity man is a man of Social norm, and , values
+# <Norms> means "man with Dignity"
+#<values> means "being a human"
+/*Social Parameters for human,
+#Scoity is one place and its member is Family
+#scoity can't broke apart it is home for Us
+#socity is some organization whare all living being is equal 
+# as we are member of society we must live as social
+# every society is our World
+/*social introduction,
+#only that person knows better, who knows and understand Society , as place of higher value.
+/* close as code end for overview,
+So, /* in social world we human should understand that we are social man with good image, which building by understanding it's,-characteristics-,-Right and Responsibility -,-norms and values-,understanding gentalmanship,
+/* Nlp- no over write script command for simple addressing to code and generate using Natural-Language-proccessing-,"introduction to my code for adding something in Social media API data readme.np-with command of natural language remark it as my code generate Social introduction - for - concerned issues of Society*/ stromlight Ayrshire , social media comments to *X/ Twitter*,*Instagram*, *Facebook*,*Linkedin*,*YouTube*,*Google business Profile*, *Pinterest*, *Tiktok*,*Reddit,and *telegram* added * bigo*, * Snapchat*/, users or clients posting is unhumanitic, I like social media comments will reflect reformatic code , which gives Social Media Misusers a guide.
+/*Nlp-Changes Commit-Social Media should be right - to the - humanity -*/NLP.
+/* Nlp-AyrshareComment - change- Stromlight-issues.
+I was trying to write Code -*/Nlp-format- processing - data-*/ social media is today's our tool for various advantages, yet it had issues reflecting - "MisUse", we educated youths should have this Acknowledgedment,and we do Have ,Social Media is with advantage also for humanity has disadvantage,as right for humanity tells we need to correct as we are human,Humanity if main key for Us Intelligent human,so we need to understand bad issues in Social Media destroying our humanity, As we call our self a civilized Human , we must learn to be act like civilized human,/*.
+*/for this we should know various point on it,___*/numbers__
+#1it is tool to Communicate Socially
+# Socially means being a human as others
+#we had right and responsibility 
+#right is so having good
+#responsibility is so as human
+/*characteristics - for - Social gentleman,
+#scocity man is a man of Social norm, and , values
+# <Norms> means "man with Dignity"
+#<values> means "being a human"
+/*Social Parameters for human,
+#Scoity is one place and its member is Family
+#scoity can't broke apart it is home for Us
+#socity is some organization whare all living being is equal 
+# as we are member of society we must live as social
+# every society is our World
+/*social introduction,
+#only that person knows better, who knows and understand Society , as place of higher value.
+/* close as code end for overview,
+So, /* in social world we human should understand that we are social man with good image, which building by understanding it's,-characteristics-,-Right and Responsibility -,-norms and values-,understanding gentalmanship,
+/* Nlp- no over write script command for simple addressing to code and generate using Natural-Language-proccessing-,"introduction to my code for adding something in Social media API data readme.np-with command of natural language remark it as my code generate Social introduction - for - concerned issues of Society*/ 
+*/ I recommend to push My code in Social comments whare by AI intelligence , if any social misuse happen ,my comand correct as comments section,giving my above introduction as massage*/
+/* Nlp- - code-massage-No Social misuse,
+ instead- shown-
 
 The Ayrshare Social API handles all the setup and maintenance for the social media networks. One API to rule them all (yeah, went there). See the full list of [full list of features](https://docs.ayrshare.com/rest-api/overview).
 
