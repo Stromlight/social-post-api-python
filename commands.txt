@@ -5,3 +5,37 @@ pip3 install wheel
 python3 setup.py sdist bdist_wheel
 For Test: twine upload --repository-url https://test.pypi.org/legacy/ dist/* --verbose
 For Release: twine upload --skip-existing dist/*
+*wellcome____
+with/*Nlp- comand as natural language tell,to the coding space I add natural language- mother.txt.-language is "NLP"-it saved in .html/NLP.,*/
+New Setup:*NLP setup.Np install
+-comand language is *NLP
+/*. any improve tool need it's importance , tech world is today founding such, and to which  this goes as a good human we must understand importance is seeing bad side also, giving importance is giving care, we intelligent community had ability to turn wrong to write, we had emence of resources , need to learn bright definition and obey that, this is humans first duties.,/*
+#Above is short definition 
+,intelligent sector is one which gives good insight , eye opening thought and helping mind.
+,intelligent sector is today's world main branch for humans development
+/*. I think we all need to gather,building a platform.,
+/*NPL-comand -opening.txt.,
+#1,as for human if we said awarenesses is important then to any coder - first give awareness.,
+#2,any wrong activity harm society ,they should able to guard it,
+#3,we can set data generation to any wrong used tech services and uses.
+#4,set a rule to post and adding in social media,./*
+/* this code can make a system whare computer can add, I recommend that our admin must work to social welfare ,
+         I with Nlp- try this plot to set like a discipline setter ,
+#i don't like with our progress humanity dies,
+in the tech we today need negative use resolution.,*/
+*set a rule for not using tech for wrong ,
+rule can be humanitic.,{
+        mother.txt.-language is "NLP"-it saved in .html/NLP.,*/
+New Setup:*NLP setup.Np install
+-comand language is *NLP
+/*. any improve tool need it's importance , tech world is today founding such, and to which  this goes as a good human we must understand importance is seeing bad side also, giving importance is giving care, we intelligent community had ability to turn wrong to write, we had emence of resources , need to learn bright definition and obey that, this is humans first duties.,/*
+#Above is short definition 
+,intelligent sector is one which gives good insight , eye opening thought and helping mind.
+,intelligent sector is today's world main branch for humans development
+/*. I think we all need to gather,building a platform.,
+/*NPL-comand -opening.txt.,
+#1,as for human if we said awarenesses is important then to any coder - first give awareness.,
+#2,any wrong activity harm society ,they should able to guard it,
+#3,we can set data generation to any wrong used tech services and uses.
+#4,set a rule to post and adding in social media,./*
+/* this
